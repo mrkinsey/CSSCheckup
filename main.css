@@ -1,0 +1,46 @@
+body {
+    background: blanchedalmond;
+    font-size: 20px;
+    color: navy;
+    font-family: 'Oswald', sans-serif;
+    margin: 25px;
+}
+
+header {
+    text-align: center;
+}
+
+.classOne {
+    border: 2px solid red;
+    border-radius: 10px 30px 10px 30px;
+    padding: 5px;
+    background-color: red;
+    padding-left: 10px;
+}
+
+.classTwo {
+    border: 2px solid green;
+    border-radius: 30px 10px 30px 10px;
+    background-color: green;
+    padding-left: 10px;
+}
+
+#idOne p {
+    width: 50vw;
+    text-align: justify;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+#idOne h2 {
+    text-align: center;
+}
+
+footer {
+    margin-top: 10px;
+    position: absolute;
+    bottom: 0;
+    height: 20px;
+}
